@@ -1,0 +1,4 @@
+C:\Users\DELL\Documents\GitHub\SimpleLyricCreator\SimpleLyricCreator\SimpleLyricCreator\obj\Debug\Interop.Shell32.dll
+C:\Users\DELL\Documents\GitHub\SimpleLyricCreator\SimpleLyricCreator\SimpleLyricCreator\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Documents\GitHub\SimpleLyricCreator\SimpleLyricCreator\SimpleLyricCreator\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Documents\GitHub\SimpleLyricCreator\SimpleLyricCreator\SimpleLyricCreator\obj\Debug\SimpleLyricCreator.csproj.ResolveComReference.cache

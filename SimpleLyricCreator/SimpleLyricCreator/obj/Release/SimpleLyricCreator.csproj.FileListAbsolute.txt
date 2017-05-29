@@ -1,0 +1,4 @@
+J:\c#资料\c#作品\开发中\SimpleLyricCreator\SimpleLyricCreator\obj\Release\Interop.Shell32.dll
+J:\c#资料\c#作品\开发中\SimpleLyricCreator\SimpleLyricCreator\obj\Release\Interop.WMPLib.dll
+J:\c#资料\c#作品\开发中\SimpleLyricCreator\SimpleLyricCreator\obj\Release\AxInterop.WMPLib.dll
+J:\c#资料\c#作品\开发中\SimpleLyricCreator\SimpleLyricCreator\obj\Release\SimpleLyricCreator.csproj.ResolveComReference.cache
